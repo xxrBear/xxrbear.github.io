@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on xdrr&#39;s blog</title>
+    <link>https://xxrbear.github.io/en/posts/</link>
+    <description>Recent content in Posts on xdrr&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://xxrbear.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://xxrbear.github.io/en/posts/%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xxrbear.github.io/en/posts/%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85hugo/</guid>
+      <description>这是一篇教程 快试试hugo吧！！！</description>
+    </item>
+    
+  </channel>
+</rss>

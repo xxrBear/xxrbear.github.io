@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xxrbear.github.io/sitemap.xml
