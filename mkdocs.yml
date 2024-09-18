@@ -34,4 +34,4 @@ nav:
   - Python:
       - python3/index.md
       - 并发:
-          - 基本概念: python3/并发/基本概念.md
+          - 基本概念: python3/concurrent/基本概念.md
