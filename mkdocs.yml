@@ -26,12 +26,15 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+repo_url: https://github.com/xxrBear/xxrbear.github.io
+repo_name: xxrBear/xxrbear.github.io
+
 # 导航页
 nav:
-  - Home:
+  - 简介:
       - index.md
 
-  - Python:
+  - Python3:
       - python3/index.md
       - 并发:
           - 基本概念: python3/concurrent/基本概念.md
