@@ -1,7 +1,7 @@
 site_name: 熊大如如的技术文档
 site_url: https://xdrr.me
 theme:
-  name: material  # 主题
+  name: material # 主题
   language: zh
 
   features:
@@ -10,7 +10,7 @@ theme:
     - navigation.instant.progress
     - navigation.top
 
-  # 明暗主题变化 
+  # 明暗主题变化
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -26,19 +26,12 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-# 导航页 
+# 导航页
 nav:
   - Home:
-    - index.md
+      - index.md
 
   - Python:
-    - python3/index.md
-    - 第一章:
-      - Getting Started: python3/ch1/index.md
-      - Getting Started2: python3/ch1/page1.md
-    - 第二章:
-      - python3/ch2/index.md
-      - Page 1: python3/ch2/page1.md
-      - Page 2: python3/ch2/page2.md
-      - Page 3: python3/ch2/page3.md
-
+      - python3/index.md
+      - 并发:
+          - 基本概念: python3/concurrent/基本概念.md
